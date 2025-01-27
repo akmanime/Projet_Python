@@ -5,4 +5,4 @@ class Livre:
         self.annee_publication = annee_publication
 
     def __str__(self):
-        return f"{self.titre} par {self.auteur} ({self.annee_publication})"
+        return f"{self.titre} par {self.auteur} ({self.annee_publication})" 
